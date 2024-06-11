@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/index.css">
+    <title>TP 10: QUIZ</title>
+</head>
+<body>
+    <main>
+        <header>
+            <h1>QUIZ SUR LE WEB</h1>
+        </header>
+        <div id="main-container">
+            <div id="question-container">
+                <h2>QUESTION N°<span id="indexQuestion">1</span></h2>
+                <h3 id="question-text"></h3>
+            </div>
+            <div id="reponse-container">
+            </div>
+            <button id="next-button">Suivant</button>
+        </div>
+        <div id="result-container" style="display: none;">
+            <div id="result-details"></div>
+            <br>
+            <button id="restart-button">RECOMMENCER</button>
+        </div>
+    </main>
+    <!-- jQuery library and custom JavaScript file -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="assets/js/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,163 @@
+{
+    "1": {
+      "question": "Quel langage est principalement utilisé pour le développement côté client dans le web ?",
+      "choix": [
+        ["Python", 0],
+        ["JavaScript", 1],
+        ["PHP", 0]
+      ]
+    },
+    "2": {
+      "question": "Quel framework est utilisé pour le développement de l'interface utilisateur en JavaScript ?",
+      "choix": [
+        ["React", 1],
+        ["Django", 0],
+        ["Laravel", 0]
+      ]
+    },
+    "3": {
+      "question": "Quel langage est utilisé pour styliser les pages web ?",
+      "choix": [
+        ["HTML", 0],
+        ["CSS", 1],
+        ["Java", 0]
+      ]
+    },
+    "4": {
+      "question": "Quel est le protocole principal utilisé pour la transmission de documents hypertextes sur le web ?",
+      "choix": [
+        ["FTP", 0],
+        ["HTTP", 1],
+        ["SMTP", 0]
+      ]
+    },
+    "5": {
+      "question": "Quel est le langage de balisage standard pour créer des pages web ?",
+      "choix": [
+        ["XML", 0],
+        ["HTML", 1],
+        ["JSON", 0]
+      ]
+    },
+    "6": {
+      "question": "Quel framework backend est écrit en Python ?",
+      "choix": [
+        ["Ruby on Rails", 0],
+        ["Django", 1],
+        ["Angular", 0]
+      ]
+    },
+    "7": {
+      "question": "Quel outil est utilisé pour gérer les versions de code source ?",
+      "choix": [
+        ["Git", 1],
+        ["npm", 0],
+        ["Webpack", 0]
+      ]
+    },
+    "8": {
+      "question": "Quel type de base de données est MySQL ?",
+      "choix": [
+        ["NoSQL", 0],
+        ["SQL", 1],
+        ["GraphQL", 0]
+      ]
+    },
+    "9": {
+      "question": "Quel est le but de Node.js ?",
+      "choix": [
+        ["Développement d'applications mobiles", 0],
+        ["Exécuter JavaScript côté serveur", 1],
+        ["Création de feuilles de style", 0]
+      ]
+    },
+    "10": {
+      "question": "Quel outil est utilisé pour automatiser les tâches de construction et de déploiement dans un projet web ?",
+      "choix": [
+        ["Gulp", 1],
+        ["React", 0],
+        ["MongoDB", 0]
+      ]
+    },
+    "11": {
+      "question": "Quel est le rôle de REST dans le développement web ?",
+      "choix": [
+        ["Un protocole de transfert de fichiers", 0],
+        ["Un style d'architecture pour les services web", 1],
+        ["Un langage de programmation", 0]
+      ]
+    },
+    "12": {
+      "question": "Quel est le rôle du fichier package.json dans un projet Node.js ?",
+      "choix": [
+        ["Définir les dépendances du projet", 1],
+        ["Configurer les routes de l'application", 0],
+        ["Styler les composants", 0]
+      ]
+    },
+    "13": {
+      "question": "Quel module Node.js permet de créer un serveur web ?",
+      "choix": [
+        ["Express", 1],
+        ["React", 0],
+        ["Vue", 0]
+      ]
+    },
+    "14": {
+      "question": "Quel langage est principalement utilisé pour les requêtes dans une base de données relationnelle ?",
+      "choix": [
+        ["SQL", 1],
+        ["NoSQL", 0],
+        ["Python", 0]
+      ]
+    },
+    "15": {
+      "question": "Quel est le rôle d'API dans le développement web ?",
+      "choix": [
+        ["Fournir une interface pour interagir avec des services externes", 1],
+        ["Définir le style des pages web", 0],
+        ["Compiler le code", 0]
+      ]
+    },
+    "16": {
+      "question": "Quel framework JavaScript est utilisé pour créer des applications monopages (SPA) ?",
+      "choix": [
+        ["Bootstrap", 0],
+        ["Angular", 1],
+        ["Django", 0]
+      ]
+    },
+    "17": {
+      "question": "Quel est le rôle de JSON dans les applications web ?",
+      "choix": [
+        ["Définir le style des pages web", 0],
+        ["Échanger des données entre un client et un serveur", 1],
+        ["Créer des interfaces utilisateur", 0]
+      ]
+    },
+    "18": {
+      "question": "Quel est le rôle du fichier .gitignore dans un projet Git ?",
+      "choix": [
+        ["Lister les fichiers à ignorer dans le contrôle de version", 1],
+        ["Définir les scripts de build", 0],
+        ["Configurer le serveur web", 0]
+      ]
+    },
+    "19": {
+      "question": "Quel langage est utilisé pour la programmation côté serveur avec Node.js ?",
+      "choix": [
+        ["Python", 0],
+        ["JavaScript", 1],
+        ["PHP", 0]
+      ]
+    },
+    "20": {
+      "question": "Quel outil de build est souvent utilisé avec React pour la gestion des modules et des fichiers ?",
+      "choix": [
+        ["Webpack", 1],
+        ["Express", 0],
+        ["MongoDB", 0]
+      ]
+    }
+  }
+  
